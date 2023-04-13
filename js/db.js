@@ -1,6 +1,6 @@
 const campers = [
     {
-        imagen : "Anita.jpg",
+        imagen : "anita.jpg",
         nombre : "Ana Maria",
         edad : 16,
         promedio : 4.5,
